@@ -1,5 +1,4 @@
 # SEO-perfume-project
-# Chanel No.5 SEO Landing Page
 
 A responsive SEO-friendly article page about Chanel No.5 perfume
 
